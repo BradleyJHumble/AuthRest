@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/BradleyJHumble/AuthRest/issues"
   },
-  "homepage": "https://github.com/BradleyJHumble/AuthRest#readme"
+  "homepage": "https://github.com/BradleyJHumble/AuthRest#readme",
+  "dependencies": {
+    "mongoose": "^5.2.17"
+  }
 }
